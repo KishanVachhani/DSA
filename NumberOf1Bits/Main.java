@@ -9,7 +9,7 @@ public class Main {
     public static int hammingWeight() {
         int number = 00000000000000000000000000001011;
         
-        // using inbuilf funtion
+        // using inbuilt funtion
         // return Integer.bitCount(number);
         
         // using bit manipulation
